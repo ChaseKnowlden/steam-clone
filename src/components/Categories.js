@@ -24,7 +24,7 @@ const Categories = () => {
         </li>
       </ul>
 
-      <input type="search" placeholder='search' className='placeholder:text-black pl-4 rounded-[2px] bg-blue-400' />
+      <input type="search" placeholder='search' className='placeholder:text-black pl-4 rounded-[2px] bg-blue-400 placeholder:italic' />
     </div>
   )
 }
