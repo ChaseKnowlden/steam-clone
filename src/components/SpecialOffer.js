@@ -1,5 +1,4 @@
 import React from 'react'
-import gaming from '../assets/gaming.jpg'
 import Card from './Card'
 import one from '../assets/1.jpg'
 import two from '../assets/2.jpg'

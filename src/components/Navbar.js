@@ -6,7 +6,7 @@ import { ImDownload } from 'react-icons/im';
 const Navbar = () => {
   return (
     <div className='bg-[#171a21]'>
-        <div className="flex items-center max-w-[70vw] mx-auto relative">
+        <div className="flex items-center max-w-[50vw] mx-auto relative">
             <div className='flex items-center justify-center lg:justify-start py-3 px-2 lg:py-6 lg:px-10 w-full lg:w-auto'>
                 <div className='lg:hidden left-4 absolute text-white'>
                     <FiMenu className='text-[30px]' />
